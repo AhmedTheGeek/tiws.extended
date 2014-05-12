@@ -6,6 +6,10 @@ TiWS Connector is simple module that extends the functionality of iamyellow TiWS
 
 It adds reconnecting functionality, and more Events.
 
+### Requirements
+TiWs: https://github.com/iamyellow/tiws
+Ti.mely: https://github.com/benbahrenburg/ti.mely
+
 ### Methods
 
 #### socketHandler.connect();
