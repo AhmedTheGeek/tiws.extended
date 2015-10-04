@@ -4,7 +4,7 @@ tiws-connector
 ### Description
 TiWS Connector is simple module that extends the functionality of iamyellow TiWS native module (https://github.com/iamyellow/tiws).
 
-It adds reconnecting functionality, and more Events.
+It adds reconnecting functionality, and even more fun.
 
 ### Requirements
 TiWs: https://github.com/iamyellow/tiws
