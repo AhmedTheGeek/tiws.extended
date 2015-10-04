@@ -1,0 +1,34 @@
+{
+  "name": "tiws.extended",
+  "version": "1.0.0",
+  "description": "a titanium module that adapts iamyellow TiWS native module, and extends its functionality with more fun things to do.",
+  "titaniumManifest": {
+    "guid": "3c41d360-2031-f2a7-aef5-c04c55ea814c"
+  },
+  "main": "socketHandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nativeDependencies": {
+    "net.iamyellow.tiws": "*",
+    "ti.mely": "*" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmedTheGeek/ti-extended-websockets.git"
+  },
+  "keywords": [
+    "titanium",
+    "websocket",
+    "iamyellow",
+    "tiws",
+    "extended",
+    "better"
+  ],
+  "author": "AhmedTheGeek",
+  "license": "GNU v2",
+  "bugs": {
+    "url": "https://github.com/AhmedTheGeek/ti-extended-websockets/issues"
+  },
+  "homepage": "https://github.com/AhmedTheGeek/ti-extended-websockets"
+}
