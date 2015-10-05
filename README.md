@@ -6,6 +6,12 @@ TiWS Connector is simple module that extends the functionality of iamyellow TiWS
 
 It adds reconnecting functionality, and even more fun.
 
+### Get it [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/tiws.extended)
+Download the latest distribution ZIP-file and consult the [Titanium Documentation](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module) on how install it, or simply use the [gitTio CLI](http://gitt.io/cli):
+
+`$ gittio install tiws.extended`
+
+
 ### Requirements
 TiWs: https://github.com/iamyellow/tiws
 Ti.mely: https://github.com/benbahrenburg/ti.mely
